@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Chrollo reading on a rooftop at night, Indoor Fish arcing through the starry sky — Hunter × Hunter (1999)" width="720"/>
+<img src="assets/banner.png" alt="Lain on a green hill under a blue sky — Serial Experiments Lain" width="100%"/>
 
 <br/>
 
