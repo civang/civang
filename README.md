@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Lain on a green hill under a blue sky — Serial Experiments Lain" width="100%"/>
-
-<br/>
-
 > *"You should enjoy the little detours. To the fullest. Because that's where you'll find the things more important than what you want."*
 > — Ging Freecss, Hunter × Hunter
 
