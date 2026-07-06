@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Night rooftop — a silhouetted reader with two glowing skeletal fish arcing through the starry sky" width="100%"/>
+<img src="assets/banner.jpg" alt="Chrollo reading on a rooftop at night, Indoor Fish arcing through the starry sky — Hunter × Hunter (1999)" width="720"/>
 
 <br/>
 
