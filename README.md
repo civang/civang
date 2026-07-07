@@ -38,12 +38,12 @@ Off the keyboard: music on loop, and a long-standing love for anime — *Hunter 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=civang&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=98F5E1&fire=FF6B6B&currStreakLabel=98F5E1&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=civang&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=98F5E1&fire=FF6B6B&currStreakLabel=98F5E1&sideLabels=58A6FF&dates=8B949E&v=2" alt="GitHub Streak" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=civang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=98F5E1&icon_color=FF6B6B&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=civang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=98F5E1&text_color=C9D1D9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=civang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=98F5E1&icon_color=FF6B6B&text_color=C9D1D9&rank_icon=github&v=2" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=civang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=98F5E1&text_color=C9D1D9&v=2" alt="Top Languages" height="165"/>
 
 </div>
 
